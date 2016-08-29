@@ -976,6 +976,7 @@ Elements
 .service-icon {
 	margin: 0 20px 20px 0;
 	float: left;
+	display: none;
 }	
 
 .service-desc h5 {
