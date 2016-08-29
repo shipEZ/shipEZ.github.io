@@ -1,2 +1,0 @@
-# shipEZ.github.io
-website
